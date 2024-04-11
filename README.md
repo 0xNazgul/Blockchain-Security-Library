@@ -67,6 +67,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Understanding Local Traders Exploit](https://medium.com/neptune-mutual/understanding-local-traders-exploit-d5e1f373b10f)
 * [Unlock Protocol](https://twitter.com/AnciliaInc/status/1649270348716867586)
 
+[Back to top](#blockchain-security-library)
+
 ## CDP, Lending and Borrowing
 * [Aave Fork Checklist](https://gist.github.com/aviggiano/4c21d79fff3437f3799da1e44e425e06)
 * [Borrowing on Ethereum: Comparing Architecture Evolution of MakerDAO, Yield, Aave, Compound, & Euler](https://hackernoon.com/borrowing-on-ethereum-comparing-architecture-evolution-of-makerdao-yield-aave-compound-and-euler)
@@ -84,6 +86,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Understanding Compound’s Liquidation](https://zengo.com/understanding-compounds-liquidation)
 * [Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
 * [Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
+
+[Back to top](#blockchain-security-library)
 
 ## CTFs and Puzzles
 * [a-MAZE-X: A Smart Contract Security Capture the Flag Workshop](https://github.com/secureum/secureum-a-maze-x-challenges)
@@ -129,6 +133,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [VyperPunk](https://github.com/SupremacyTeam/VyperPunk)
 * [Yet another evm puzzle](https://github.com/mattaereal/yet-another-evm-puzzle)
 * [zero knowledge puzzles](https://github.com/RareSkills/zero-knowledge-puzzles)
+
+[Back to top](#blockchain-security-library)
 
 ## DeFi
 * [A Deep Dive Into the Uniswap V2 Protocol](https://betterprogramming.pub/uniswap-v2-in-depth-98075c826254)
@@ -180,6 +186,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [UniswapV4 hooks](https://twitter.com/wh01s7/status/1729812462571012144)
 * [When bug-fixes go wrong: RAI debt auctions bug](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
 
+[Back to top](#blockchain-security-library)
+
 ## DOS
 * [a study of return bombing](https://twitter.com/0xkarmacoma/status/1763746082537017725)
 * [Charged Particles Griefing Bugfix Review](https://medium.com/immunefi/charged-particles-griefing-bug-fix-postmortem-d2791e49a66b)
@@ -190,10 +198,14 @@ Do you think something would better fit in another section? Create an issue abou
 * [Stacks DoS Bugfix Review](https://medium.com/immunefi/stacks-dos-bugfix-review-dc0f2a75b276)
 * [Threshold tBTC vulnerabilities disclosed](https://blog.threshold.network/a-tale-of-two-bugs/)
 
+[Back to top](#blockchain-security-library)
+
 ## ERC-1155
 * [ERC721/ERC1155 contract development and security](https://medium.com/@sharkteam/erc721-erc1155-contract-development-and-security-a086abbb84f5)
 * [Security Analysis of the ERC 1155 NFT Smart Contract](https://blog.quillaudits.com/2023/02/20/security-analysis-of-the-erc-1155-nft-smart-contract/)
 * [Your Guide to ERC-1155](https://www.alchemy.com/blog/comparing-erc-721-to-erc-1155)
+
+[Back to top](#blockchain-security-library)
 
 ## ERC-20
 * [12 ERC20 Edge Cases](https://www.youtube.com/watch?v=Tx0f8A2Yd3k)
@@ -220,6 +232,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [weird-erc20](https://github.com/d-xo/weird-erc20)
 * [Why you should ALWAYS use SafeERC20](https://medium.com/@JohnnyTime/why-you-should-always-use-safeerc20-94f44aa852d8)
 
+[Back to top](#blockchain-security-library)
+
 ## ERC-4337
 * [A deep dive into the main components of ERC-4337](https://medium.com/oak-security/a-deep-dive-into-the-main-components-of-erc-4337-account-abstraction-using-alt-mempool-part-1-3a1ed1bd3a9b)
 * [Account Abstraction Security Guide](https://medium.com/chainlight/patch-thursday-account-abstraction-security-guide-c348cc5e36ee)
@@ -241,6 +255,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Smashing ERC4337 Wallets For Fun and Profit](https://bountyhunt3r.xyz/smashing-erc4337-wallets-for-fun-and-profit-intro)
 * [Understanding ERC-4337 User Operation Packing Vulnerability](https://blog.quillaudits.com/2023/04/24/understanding-erc-4337-user-operation-packing-vulnerability/)
 
+[Back to top](#blockchain-security-library)
+
 ## ERC-4626
 * [A Novel Defense Against ERC4626 Inflation Attacks](https://blog.openzeppelin.com/a-novel-defense-against-erc4626-inflation-attacks)
 * [ERC 4626 Token Standard And Its Security Concerns Explained](https://blog.quillaudits.com/2023/09/08/erc-4626-token-standard-and-its-security-concerns-explained/)
@@ -248,6 +264,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Exploring ERC-4626: A Security Primer](https://www.zellic.io/blog/exploring-erc-4626/)
 * [Is my ERC-4626 vault token up to the standard?](https://runtimeverification.com/blog/is-my-erc-4626-vault-token-up-to-the-standard)
 * [Shared Vulnerabilities Between ERC-4626 Vaults and Vault-Like Contracts](https://www.arbitraryexecution.com/blog/shared-vulnerabilities-between-erc-4626-vaults-and-vault-like-contracts-deep-dive-part-1)
+
+[Back to top](#blockchain-security-library)
 
 ## ERC-721
 * [A comprehensive guide to the ERC721 standard and related security issues](https://www.rareskills.io/post/erc721)
@@ -277,6 +295,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [TOP 10 WAYS YOUR NFTS CAN BE HACKED](https://www.halborn.com/blog/post/top-10-ways-your-nf-ts-can-be-hacked)
 * [Unforgettable NFT Smart Contracts Exploits](https://blog.quillaudits.com/2021/08/11/nft-smart-contract-exploits-that-made-headlines-in-the-past/)
 
+[Back to top](#blockchain-security-library)
+
 ## ERC-777
 * [Deciphering Token Standards in Ethereum Part-IV — The Failure of ERC777](https://www.zaryabs.com/the-faliure-of-erc777/)
 * [Exploring ERC777 Tokens: Vulnerabilities and Potential DOS Attacks on Smart Contracts](https://medium.com/@JohnnyTime/exploring-erc777-tokens-vulnerabilities-and-potential-dos-attacks-on-smart-contracts-507d44604281)
@@ -284,6 +304,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [One more problem with ERC777](https://mixbytes.io/blog/one-more-problem-with-erc777)
 * [SlowMist: Detailed Explanation of Uniswap’s ERC777 Re-entry Risk](https://blog.blockmagnates.com/detailed-explanation-of-uniswaps-erc777-re-entry-risk-8fa5b3738e08)
 * [The Potential Impact Of ERC-777 Tokens On DeFi Protocols](https://medium.com/immunefi/the-potential-impact-of-erc-777-tokens-on-defi-protocols-51cdb07be733)
+
+[Back to top](#blockchain-security-library)
 
 ## EVM Internals an Low level
 * [A call, a precompile and a compiler walk into a bar](https://blog.theredguild.org/a-call-a-precompile-and-a-compiler-walk-into-a-bar/)
@@ -343,6 +365,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Yul Solidity Fridays](https://www.youtube.com/watch?v=UrtuosfzmGU)
 * [Yul](https://docs.soliditylang.org/en/latest/yul.html)
 
+[Back to top](#blockchain-security-library)
+
 ## Formal Verification & Symbolic Execution
 * [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
 * [Certora Documentation](https://github.com/Certora/Documentation)
@@ -373,6 +397,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Symbolic testing with Halmos](https://a16zcrypto.com/posts/article/symbolic-testing-with-halmos-leveraging-existing-tests-for-formal-verification/)
 * [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 * [Z3 Docs](https://theory.stanford.edu/~nikolaj/programmingz3.html)
+
+[Back to top](#blockchain-security-library)
 
 ## Fuzzing
 * [10 Steps To Easily Use 3 Fuzzers](https://twitter.com/DevDacian/status/1733009929508917499)
@@ -406,6 +432,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Thomas Roth , Solana - JIT - Lessons from fuzzing a smart contract compiler](https://www.youtube.com/watch?v=8E7XOHQiRPE)
 * [TOB fuzzing blog posts](https://blog.trailofbits.com/category/fuzzing/)
 
+[Back to top](#blockchain-security-library)
+
 ## Gas
 * [A Collection of Gas Optimisation Tricks](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966)
 * [A Dive into Storage Packing](https://dittoeth.com/blog/packing)
@@ -431,6 +459,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [The RareSkills Book of Solidity Gas Optimization: 80+ Tips](https://www.rareskills.io/post/gas-optimization)
 * [The Ultimate Guide to NFT Gas Optimization](https://medium.com/@WallStFam/the-ultimate-guide-to-nft-gas-optimization-7e9289e2d88f)
 * [Yul (and Some Solidity) Optimizations and Tricks](https://github.com/ControlCplusControlV/Yul-Optimization-Tips)
+
+[Back to top](#blockchain-security-library)
 
 ## General
 * [(Not So) Smart Contracts](https://github.com/crytic/not-so-smart-contracts)
@@ -504,6 +534,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [wiki.r.security](https://wiki.r.security/wiki/Main_Page)
 * [Zero Knowledge Mastery](https://github.com/Quillhash/Zero-Knowledge-Mastery/)
 
+[Back to top](#blockchain-security-library)
+
 ## Governance 
 * [AquaDAO hack](https://twitter.com/Airdrops_one/status/1629298588390916097)
 * [DAO Governance DeFi Attacks](https://dacian.me/dao-governance-defi-attacks)
@@ -514,6 +546,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [The Hidden Shortcomings of DAOs](https://arxiv.org/abs/2302.12125)
 * [The Vulnerable Nature of Decentralized Governance in DeFi](https://arxiv.org/abs/2308.04267)
 * [Tornado Cash governance exploit](https://github.com/coinspect/learn-evm-attacks/tree/master/test/Business_Logic/TornadoCash_Governance)
+
+[Back to top](#blockchain-security-library)
 
 ## L2 and Bridges
 * [6 security sins of Web3 bridges](https://composable-security.com/blog/6-security-sins-of-web-3-bridges/)
@@ -542,10 +576,14 @@ Do you think something would better fit in another section? Create an issue abou
 * [The Dark Side of DeFi: Cross-Chain Bridge Hacks](https://quantstamp.com/blog/the-dark-side-of-defi-cross-chain-bridge-hacks)
 * [You Could Have Found the Nomad Hack](https://www.zellic.io/blog/audit-drift/)
 
+[Back to top](#blockchain-security-library)
+
 ## LSD
 * [LSD Checklist](https://github.com/Decurity/audit-checklists/blob/master/lsd.md)
 * [LSD. Integration pitfalls](https://mixbytes.io/blog/liquid)
 * [Typical vulnerabilities in LSD protocols](https://blog.decurity.io/typical-vulnerabilities-in-lsd-protocols-e52ffe4ee175)
+
+[Back to top](#blockchain-security-library)
 
 ## MEV
 * [0xBentoshi MEV resources](https://github.com/0xBentoshi/mev-resources/blob/main/main.md)
@@ -573,6 +611,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [The Mev Book](https://github.com/0xOsiris/Mev_Book)
 * [Towards Stronger Blockchains: Security Against Front-Running Attacks](https://arxiv.org/abs/2311.10253)
 * [Your Sandwich Is My Lunch: How to Drain MEV Contracts V2](https://www.zellic.io/blog/your-sandwich-is-my-lunch-how-to-drain-mev-contracts-v2/)
+
+[Back to top](#blockchain-security-library)
 
 ## Oracle and Flashloans
 * [0x0 Audits Hack](https://twitter.com/pcaversaccio/status/1647370508751577089)
@@ -622,11 +662,15 @@ Do you think something would better fit in another section? Create an issue abou
 * [UNMS Hack](https://twitter.com/BeosinAlert/status/1641018602878042113)
 * [WOOFi Exploit](https://www.cyfrin.io/blog/hack-analysis-into-woofi-exploit)
 
+[Back to top](#blockchain-security-library)
+
 ## Over/Underflow
 * [BEC Smart Contract Unlimited Token Transfer Vulnerability Analysis](https://slowmist.medium.com/slowmist-bec-smart-contract-unlimited-token-transfer-vulnerability-analysis-and-warning-114796a5c905)
 * [Learn attack vectors and explore H/M severity issues. Over/Underflow](https://medium.com/coinmonks/learn-attack-vectors-and-explore-h-m-severity-issues-over-underflow-e331aa41d97b)
 * [Poolz Finance Attacked](https://medium.com/@numencyberlabs/poolz-finance-attacked-for-665-000-56084cacae53)
 * [Solidity Integer Overflow & Underflow](https://medium.com/neptune-mutual/solidity-integer-overflow-underflow-5614650e390a)
+
+[Back to top](#blockchain-security-library)
 
 ## Reentrancy 
 * [A Historical Collection of Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks)
@@ -731,6 +775,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [When “SafeTransfer” Becomes Unsafe](https://blocksecteam.medium.com/when-safetransfer-becomes-unsafe-lesson-from-the-qbridge-security-incident-c32ecd3ce9da)
 * [Where to find solidity reentrancy attacks](https://www.rareskills.io/post/where-to-find-solidity-reentrancy-attacks)
 
+[Back to top](#blockchain-security-library)
+
 ## Reversing
 * [Deconstructing a Solidity Contract —Part I: Introduction](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737)
 * [DeGatchi on Reverse Engineering and MEV ](https://www.youtube.com/watch?v=ZqolZvfs2h8)
@@ -744,6 +790,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Reversing and debugging EVM Smart contracts](https://trustchain.medium.com/reversing-and-debugging-evm-smart-contracts-392fdadef32d)
 * [Reversing The EVM: Raw Calldata](https://degatchi.com/articles/reading-raw-evm-calldata)
 
+[Back to top](#blockchain-security-library)
+
 ## RoadMaps
 * [AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)
 * [Becoming a web 3 security researcher](https://www.joranhonig.nl/becoming-a-web-3-security-researcher-balancing-foundations-and-the-attacker-mindset/)
@@ -755,6 +803,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor)
 * [Why are you not an Elite Smart Contract Security Researcher?](https://www.gmhacker.com/why-are-you-not-an-elite-smart-contract-security-researcher/)
 
+[Back to top](#blockchain-security-library)
+
 ## Rounding and Math
 * [balancer rounding error bugfix review](https://medium.com/immunefi/balancer-rounding-error-bugfix-review-cbf69482ee3d)
 * [Kankodu donation attack thread](https://twitter.com/kankodu/status/1771229163942474096)
@@ -763,6 +813,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Rounding Errors For Auditors](https://33audits.hashnode.dev/rounding-errors-for-auditors)
 * [SwaposV2Pair](https://twitter.com/beosinalert/status/1647552192243728385)
 * [wise lending hack analysis](https://blog.solidityscan.com/wise-lending-hack-analysis-f652f389e397)
+
+[Back to top](#blockchain-security-library)
 
 ## Security Checklists
 * [Checks while Hacks](https://github.com/0xprinc/checks-while-hacks)
@@ -782,6 +834,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [The ultimate security checklist](https://www.beirao.xyz/blog/Security-checklist)
 * [Trail of Bits Rekt Test](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
 
+[Back to top](#blockchain-security-library)
+
 ## Security Courses
 * [Blockchain Security Course](https://www.youtube.com/playlist?list=PLgAorDu9_-dPGPkVWFceDNjlHyvvrx8Y0)
 * [Cyfrin Updraft](https://updraft.cyfrin.io/courses/security)
@@ -796,6 +850,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23)
 * [Smart Contracts and Hacking 101](https://github.com/jcsec-security/smart-contracts-and-hacking-101)
 * [Solana Security Workshop](https://github.com/neodyme-labs/neodyme-breakpoint-workshop)
+
+[Back to top](#blockchain-security-library)
 
 ## Security Monitoring & Protection
 * [A Case for the Defense](https://www.trust-security.xyz/post/case-for-the-defense)
@@ -818,6 +874,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Security Defense For Smart Contracts](https://arxiv.org/abs/2302.07347)
 * [Threat Modeling for Smart Contracts: Best Step-by-Step Guide](https://composable-security.com/blog/threat-modeling-for-smart-contracts-best-step-by-step-guide/)
 * [What does a project need to do to stay secure?](https://www.youtube.com/watch?v=RrlFnMNsSqQ)
+
+[Back to top](#blockchain-security-library)
 
 ## Signature Vulnerabilities
 * [After Ethereum merge, beware of replay attacks](https://medium.com/@sharkteam/after-ethereum-merge-beware-of-replay-attacks-analysis-of-the-attack-on-omnis-cross-chain-bridge-3d36d8045755)
@@ -852,6 +910,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Top-10 Vulnerabilities in Substrate-based Blockchains Using Rust](https://medium.com/rektoff/top-10-vulnerabilities-in-substrate-based-blockchains-using-rust-d454279521ff)
 * [Transaction Replay + Management Vulnerability](https://medium.com/@sharkteam/transaction-replay-management-vulnerability-analysis-of-20-million-op-stolen-incident-30191b47e689)
 * [Understanding Signature Replay Attack](https://medium.com/neptune-mutual/understanding-signature-replay-attack-cbb70a7f46d8)
+
+[Back to top](#blockchain-security-library)
 
 ## Tools
 * [4naly3er](https://github.com/Picodes/4naly3er)
@@ -928,6 +988,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Whitehacks Kit](https://github.com/emilianobonassi/whitehacks-kit)
 * [yools](https://github.com/leonardoalt/yools)
 
+[Back to top](#blockchain-security-library)
+
 ## Upgradability
 * [A Comprehensive Survey of Upgradeable Smart Contract Patterns](https://arxiv.org/abs/2304.03405)
 * [Astaria vulnerability disclosed](https://twitter.com/AstariaXYZ/status/1671215491069927429)
@@ -939,6 +1001,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Security Guide to Proxies](https://proxies.yacademy.dev/pages/security-guide)
 * [Upgradeable proxy contract from scratch](https://jeiwan.net/posts/upgradeable-proxy-from-scratch/)
 * [Upgradeable Smart Contracts (USCs): Exploring The Concept And Security Risks](https://hacken.io/discover/upgradeable-smart-contracts/)
+
+[Back to top](#blockchain-security-library)
 
 ## Validation and Logic errors
 * [All your staking rewards are belong to us](https://blog.decurity.io/all-your-staking-rewards-are-belong-to-us-f53d5bd60989)
@@ -982,6 +1046,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [USDs Feb 3 Exploit Report](https://medium.com/sperax/usds-feb-3-exploit-report-from-engineering-team-9f0fd3cef00c)
 * [XCarnival NFT lending protocol vulnerability analysis](https://slowmist.medium.com/xcarnival-nft-lending-protocol-vulnerability-analysis-583474cede61)
 
+[Back to top](#blockchain-security-library)
+
 ## ZK
 * [A Primer on Exploiting ZK Circuits](https://twitter.com/zellic_io/status/1750638776215621971)
 * [a16z zkDocs](https://github.com/a16z/zkdocs)
@@ -1018,3 +1084,5 @@ Do you think something would better fit in another section? Create an issue abou
 * [ZKP-Resources: zkp-security](https://github.com/D-Squared70/Reading-Room/blob/main/Zero-Knowledge/ZKP-Resources.md#zkp-security)
 * [ZKSECURITY](https://www.zksecurity.xyz/blog/)
 * [zkSync Era transfer Bug](https://twitter.com/zksync/status/1644139364270878720)
+
+[Back to top](#blockchain-security-library)
