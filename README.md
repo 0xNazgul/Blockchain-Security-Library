@@ -3,7 +3,7 @@ A library of blockchain security resources for various categories in blockchain.
 
 # Contributing
 Want to add something blockchain security related? Create a PR making sure that:
-1. It is security related.
+1. It is blockchain security related.
 2. Link is in the correct section or can be made into a new section.
 3. It stays in alphabetical order.
 
@@ -24,8 +24,8 @@ Do you think something would better fit in another section? Create an issue abou
   - [ERC-4626](#erc-4626)
   - [ERC-721](#erc-721)
   - [ERC-777](#erc-777)
-  - [EVM Internals an Low level](#evm-internals-an-low-level)
-  - [Formal Verification \& Symbolic Execution](#formal-verification--symbolic-execution)
+  - [EVM Internals and Low Level](#evm-internals-and-low-level)
+  - [Formal Verification and Symbolic Execution](#formal-verification-and-symbolic-execution)
   - [Fuzzing](#fuzzing)
   - [Gas](#gas)
   - [General](#general)
@@ -41,7 +41,7 @@ Do you think something would better fit in another section? Create an issue abou
   - [Rounding and Math](#rounding-and-math)
   - [Security Checklists](#security-checklists)
   - [Security Courses](#security-courses)
-  - [Security Monitoring \& Protection](#security-monitoring--protection)
+  - [Security Monitoring and Protection](#security-monitoring-and-protection)
   - [Signature Vulnerabilities](#signature-vulnerabilities)
   - [Tools](#tools)
   - [Upgradability](#upgradability)
@@ -79,6 +79,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [DeFi Lending Concepts Part 1: Lending and Borrowing](https://blog.smlxl.io/defi-lending-concepts-part-1-lending-and-borrowing-f646d6a08dd7)
 * [Discussion on lending/borrowing bugs](https://twitter.com/0xriptide/status/1694291589097542130)
 * [How (Not) to Create a DeFi CDP or Lending Protocol](https://www.zellic.io/blog/how-not-to-create-a-cdp-or-lending-protocol/)
+* [Issues in Certain Forks of Gains Network](https://www.zellic.io/blog/issues-in-forks-of-gains/)
 * [Lending/Borrowing DeFi Attacks](https://dacian.me/lending-borrowing-defi-attacks)
 * [Lending/Borrowing DeFi Attacks](https://dacian.me/lending-borrowing-defi-attacks)
 * [Radiant Capital Hack Analysis](https://blog.solidityscan.com/radiant-capital-hack-analysis-b300ebdeee29)
@@ -107,6 +108,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [EVM through CTFs](https://www.evmthroughctfs.com/)
 * [evm-puzzles](https://github.com/fvictorio/evm-puzzles)
 * [Gas Puzzles](https://github.com/RareSkills/gas-puzzles)
+* [Grey Cat The Flag](https://ctfd.nusgreyhats.org/)
 * [HalbornSecurity CTFs](https://github.com/HalbornSecurity/CTFs)
 * [Hats Finance Games](https://github.com/hats-finance/games)
 * [Hats Finance vault-game](https://github.com/hats-finance/vault-game)
@@ -149,12 +151,14 @@ Do you think something would better fit in another section? Create an issue abou
 * [awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-hooks)
 * [BalancerV1 Integration Tips](https://blog.pessimistic.io/balancerv1-integration-tips-594067785e8b)
 * [Bitpaid Hack](https://twitter.com/BlockSecTeam/status/1657411284076478465)
+* [Concentrated Liquidity Manager Vulnerabilities](https://dacian.me/concentrated-liquidity-manager-vulnerabilities)
 * [Convex Finance DeFi Integration Tips](https://blog.pessimistic.io/convex-finance-defi-integration-tips-1bacfe73d3ce)
 * [CurveV1 Integration Tips](https://blog.pessimistic.io/curvev1-integration-tips-a49af7b4b46a)
 * [Decentralized Finance (DeFi) Attacks](https://arxiv.org/abs/2208.13035)
 * [Decentralized Finance Threat Matrix](https://github.com/manifoldfinance/defi-threat)
 * [DeFi Attack Vectors](https://github.com/Quillhash/DeFi-Attack-Vectors)
-* [defi fork bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
+* [DeFi Design Takeaways from DeFi Risk Modelling](https://blog.yacademy.dev/2024-05-03-merging-economics-and-security/)
+* [Defi fork bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
 * [DeFi Risk Modelling Awesome](https://github.com/engn33r/DeFi-Risk-Modelling-Awesome)
 * [DeFi Slippage Attacks](https://dacian.me/defi-slippage-attacks)
 * [Euler Finance Incident Post-Mortem](https://medium.com/@omniscia.io/euler-finance-incident-post-mortem-1ce077c28454)
@@ -182,6 +186,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [TradFi, Meet DeFi](https://www.zellic.io/blog/breaking-down-the-economics-of-defi-hacks/)
 * [Typical vulnerabilities in AMM protocols](https://blog.decurity.io/typical-vulnerabilities-in-amm-protocols-9006f7986ba0)
 * [Uniswap v3 Book](https://uniswapv3book.com/)
+* [Uniswap V3 ticks - dive into concentrated liquidity](https://mixbytes.io/blog/uniswap-v3-ticks-dive-into-concentrated-liquidity)
 * [Uniswap v4 - threat modeling for secure integration](https://composable-security.com/blog/uniswap-v-4-threat-modeling-for-secure-integration/)
 * [UniswapV4 hooks](https://twitter.com/wh01s7/status/1729812462571012144)
 * [When bug-fixes go wrong: RAI debt auctions bug](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
@@ -307,7 +312,7 @@ Do you think something would better fit in another section? Create an issue abou
 
 [Back to top](#blockchain-security-library)
 
-## EVM Internals an Low level
+## EVM Internals and Low Level
 * [A call, a precompile and a compiler walk into a bar](https://blog.theredguild.org/a-call-a-precompile-and-a-compiler-walk-into-a-bar/)
 * [A Low-Level Guide To Solidity's Storage Management](https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management/)
 * [A Playdate with the EVM](https://hackmd.io/@cupidhack/Hk6SKZGCu)
@@ -353,6 +358,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Solidity Tutorial : all about Assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 * [solvm](https://github.com/brockelmore/solvm)
 * [Technical Exploration of Inline Assembly in Solidity](https://medium.com/@ac1d_eth/technical-exploration-of-inline-assembly-in-solidity-b7d2b0b2bda8)
+* [The Bytecode #35 - Hari - Solidity Compiler](https://www.youtube.com/watch?v=_ReLzN3I1uY)
 * [The Dark Arts of Yul, Explained](https://smitrajput.notion.site/smitrajput/The-Dark-Arts-of-Yul-Explained-e0b2c178bc52437da1d101f4f96abbe4)
 * [The EVM and Smart Contract Internals](https://www.youtube.com/watch?v=O8pImV1eRTE)
 * [The EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d)
@@ -367,7 +373,7 @@ Do you think something would better fit in another section? Create an issue abou
 
 [Back to top](#blockchain-security-library)
 
-## Formal Verification & Symbolic Execution
+## Formal Verification and Symbolic Execution
 * [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
 * [Certora Documentation](https://github.com/Certora/Documentation)
 * [Certora Tutorials](https://github.com/Certora/Tutorials)
@@ -415,6 +421,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [function-level invariant Thread](https://twitter.com/Proxy1967/status/1643619157626200065)
 * [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/abs/2309.03006)
 * [Fuzz Test Coverage Tips](https://twitter.com/DevDacian/status/1732645103867773236)
+* [Fuzzing and Heuristics interview with @devdacian](https://www.youtube.com/watch?v=IZTvXfC14Ig)
 * [Fuzzing ERC20 contracts with Diligence Fuzzing](https://consensys.io/diligence/blog/2021/09/fuzzing-erc20-contracts-with-diligence-fuzzing/)
 * [Fuzzing on-chain contracts with Echidna](https://blog.trailofbits.com/2023/07/21/fuzzing-on-chain-contracts-with-echidna/)
 * [Fuzzing Smart Contracts Yields this Research Team $100K+ in Bounties](https://medium.com/@david.azad.merian/fuzzing-smart-contracts-yields-this-research-team-100k-in-bounties-ef7891c424f4)
@@ -480,6 +487,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Bug Patterns in Solidity and Smart Contract Auditing](https://www.youtube.com/watch?v=00W06SHEFx4)
 * [Bug Patterns in Solidity and Smart Contract Auditing](https://www.youtube.com/watch?v=fwJga_Swk1o)
 * [Building Secure Smart Contracts](https://secure-contracts.com/#building-secure-smart-contracts)
+* [Coinbase Solidity Style Guide](https://github.com/coinbase/solidity-style-guide)
 * [Composable Security security guide](https://drive.google.com/file/d/1RpMEHJVWpvFxpcezTqG0enDd_7A-cQVI/view)
 * [CryptoVulhub](https://github.com/Rivaill/CryptoVulhub)
 * [DeFi Security Lecture](https://medium.com/beaver-smartcontract-security/defi-security-lecture-1-reentrancy-attack-182396e41710)
@@ -488,6 +496,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Hitchhiker's Guide to Security](https://twitter.com/emilianobonassi/status/1635692405495324673)
 * [HolyTips](https://github.com/HolyBugx/HolyTips)
 * [Immunefi-bug-bounty-writeups-list](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list)
+* [Immunefi Proof of Concepts Repository](https://github.com/immunefi-team/bugfix-reviews-pocs)
 * [Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
 * [opensensepw](https://www.youtube.com/@opensensepw/videos)
 * [OriginProtocol security](https://github.com/OriginProtocol/security)
@@ -516,9 +525,10 @@ Do you think something would better fit in another section? Create an issue abou
 * [SWC Registry](https://swcregistry.io/)
 * [The 4 External Call Attacks](https://www.youtube.com/watch?v=VF1HYD50eus)
 * [The Compendium](https://github.com/obheda12/Solidity-Security-Compendium)
+* [The Secure Smart Contract Development Roadmap](https://github.com/OpenZeppelin/secure-development-cookbook)
 * [The Top 10 Most Common Vulnerabilities In Web3](https://medium.com/immunefi/the-top-10-most-common-vulnerabilities-in-web3-bf7a921d489f)
-* [The Ultimate Guide To Reentrancy](https://www.youtube.com/watch?v=3T1t2ginfTg)
 * [Tincho’s audit process](https://mirror.xyz/patrickalphac.eth/KSls5PVxzzvrtcR9dxNguXqgyUh7T3V74dBPt77m8Zk)
+* [Top Ten “Awesome” Security Incidents in 2023](https://blocksecteam.medium.com/top-ten-awesome-security-incidents-in-2023-5e3f55d674a4)
 * [Top 10 blockchain hacking techniques of 2023](https://blog.openzeppelin.com/top-10-blockchain-hacking-techniques-of-2023)
 * [TOP 10 real-life exploits Thread](https://twitter.com/bytes032/status/1614897103154675713)
 * [ultimate defi research base](https://github.com/OffcierCia/ultimate-defi-research-base)
@@ -687,6 +697,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Conic Finance exploit](https://twitter.com/ConicFinance/status/1682385596700844032)
 * [Conic Finance post mortem](https://medium.com/@ConicFinance/post-mortem-eth-and-crvusd-omnipool-exploits-c9c7fa213a3d) 
 * [Conic Finance-Detailed Hack Analysis](https://immunebytes.medium.com/conic-finance-detailed-hack-analysis-july-21-immunebytes-923a8d6fc107)
+* [Cosmos IBC Reentrancy Infinite Mint](https://www.asymmetric.re/blog/cosmos-ibc-reentrancy-infinite-mint)
 * [Cronos critical](https://twitter.com/0xDjangoOnChain/status/1771220313205825917)
 * [Cross-chain re-entrancy](https://medium.com/@mateocesaroni_11308/cross-chain-re-entrancy-54ec2e924e9c)
 * [Cross-Contract Reentrancy Attack](https://github.com/InspexCo/cross-contract-reentrancy)
@@ -704,6 +715,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [EraLend exploit](https://rekt.news/eralend-rekt/)
 * [Essential Auditing Knowledge | What is the Difficult-to-Guard “Read-Only Reentrancy Attack”?](https://medium.com/@Beosin_com/essential-auditing-knowledge-what-is-the-difficult-to-guard-read-only-reentrancy-attack-a76af5f2fc27)
 * [Exploiting Uniswap: from reentrancy to actual profit](https://blog.openzeppelin.com/exploiting-uniswap-from-reentrancy-to-actual-profit)
+* [Finding a viper in the curved lawn](https://medium.com/@kupiasec/finding-a-viper-in-the-curved-lawn-e43401997cce)
 * [Flash Loan & Reentrancy Attack: Analysis of Hundred and Agave Hack](https://medium.com/@sharkteam/flash-loan-reentrancy-attack-analysis-of-hundred-and-agave-hack-455c38d076cb)
 * [Flashloan + reentrance attacks, technical analysis about why OUSE lost $ 7 million](https://slowmist.medium.com/flashloan-reentrance-attacks-technical-analysis-about-why-ouse-lost-7-million-f7d090d853a8)
 * [Hack Analysis: Omni Protocol, July 2022](https://medium.com/immunefi/hack-analysis-omni-protocol-july-2022-2d35091a0109)
@@ -757,6 +769,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [The most famous attack in history: The Reentrancy Attack](https://blog.blockmagnates.com/the-most-famous-attack-in-history-the-reentrancy-attack-57b6769d8760)
 * [THE STARS ARENA HACK](https://www.halborn.com/blog/post/explained-the-stars-arena-hack-october-2023)
 * [The Ultimate Guide To Reentrancy](https://medium.com/immunefi/the-ultimate-guide-to-reentrancy-19526f105ac)
+* [The Ultimate Guide To Reentrancy by Owen Thurm](https://www.youtube.com/watch?v=3T1t2ginfTg)
 * [Top 10 Smart Contract Security Threats of Reentrancy Attacks](https://medium.com/@sharkteam/sharkteam-top-10-smart-contract-security-threats-of-reentrancy-attacks-97bff7d90591)
 * [TSTORE Low Gas Reentrancy](https://chainsecurity.com/tstore-low-gas-reentrancy/)
 * [Understanding Re-entrancy in Smart Contracts](https://blog.solidityscan.com/understanding-re-entrancy-in-smart-contracts-97cb67ecbb07)
@@ -853,7 +866,7 @@ Do you think something would better fit in another section? Create an issue abou
 
 [Back to top](#blockchain-security-library)
 
-## Security Monitoring & Protection
+## Security Monitoring and Protection
 * [A Case for the Defense](https://www.trust-security.xyz/post/case-for-the-defense)
 * [A Novel Collaborative Learning Framework to Detect Attacks in Transactions and Smart Contracts](https://arxiv.org/abs/2308.15804)
 * [Crisis Handbook - Smart Contract Hack](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.c4h2beeflqpo)
@@ -918,6 +931,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Audit wizard](https://www.auditwizard.io/blog/audit-wizard-beta-launch)
 * [Auditor toolbox](https://hackmd.io/@Deivitto/The-Auditor-Toolbox)
 * [Awesome Advanced Smart Contracts Testing and Verification](https://github.com/GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification)
+* [awesome smart contract analysis tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools)
 * [Caracal](https://github.com/crytic/caracal)
 * [Certora prover](https://www.certora.com/prover)
 * [Chain Walker](https://github.com/0xsha/ChainWalker)
@@ -948,6 +962,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [halmos](https://github.com/a16z/halmos)
 * [Heimdall-rs](https://github.com/Jon-Becker/heimdall-rs)
 * [ityfuzz](https://github.com/fuzzland/ityfuzz)
+* [kontrol](https://github.com/runtimeverification/kontrol)
 * [MadMax](https://github.com/nevillegrech/MadMax)
 * [Manticore](https://github.com/trailofbits/manticore)
 * [Masamune](https://github.com/Zellic/Masamune)
@@ -979,11 +994,14 @@ Do you think something would better fit in another section? Create an issue abou
 * [solstat](https://github.com/0xKitsune/solstat)
 * [SuMo-SOlidity-MUtator](https://github.com/MorenaBarboni/SuMo-SOlidity-MUtator)
 * [Tayt](https://github.com/crytic/tayt)
+* [Thread about The Secureum Kontrol workshop](https://twitter.com/nisedo_/status/1781001894585934159)
 * [Theo](https://github.com/cleanunicorn/theo)
 * [Transaction Tracer](https://openchain.xyz/trace)
+* [tx coverage](https://github.com/Decurity/tx-coverage)
 * [universalmutator](https://github.com/agroce/universalmutator)
 * [vertigo-rs](https://github.com/RareSkills/vertigo-rs)
 * [Vyper Halmos](https://github.com/zobront/vyper-halmos)
+* [Vyper Interface Scanner](https://github.com/YAcademy-Residents/vyper-interface-scanner)
 * [WhatsABI](https://github.com/shazow/whatsabi)
 * [Whitehacks Kit](https://github.com/emilianobonassi/whitehacks-kit)
 * [yools](https://github.com/leonardoalt/yools)
@@ -1007,6 +1025,7 @@ Do you think something would better fit in another section? Create an issue abou
 ## Validation and Logic errors
 * [All your staking rewards are belong to us](https://blog.decurity.io/all-your-staking-rewards-are-belong-to-us-f53d5bd60989)
 * [Analysis of hacking incidents of NFT lending protocol XCarnival](https://medium.com/@sharkteam/nft-liquidity-protocols-security-dilemma-analysis-of-hacking-incidents-of-nft-lending-887621ed5d5f)
+* [Analysis of the Hedgey Finance Exploit](https://neptunemutual.com/blog/analysis-of-the-hedgey-finance-exploit/)
 * [Astrid Finance exploit](https://twitter.com/MetaSec_xyz/status/1718229037460730260)
 * [Aurora rainbow bridge withdrawal logic bug](https://www.youtube.com/watch?v=RZuWwQA4xJU)
 * [Balancer Logic Error Bugfix Review](https://medium.com/immunefi/balancer-logic-error-bugfix-review-74f5edca8b1a)
@@ -1029,6 +1048,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [OMNI Real Estate Token Exploit](https://medium.com/neptune-mutual/omni-real-estate-token-exploit-56643524fd70)
 * [Phantom Functions and the Billion-Dollar No-op](https://medium.com/dedaub/phantom-functions-and-the-billion-dollar-no-op-c56f062ae49f)
 * [phyProxy hack](https://twitter.com/BlockSecTeam/status/1619157445754101760)
+* [Pike USDC Withdrawal Vulnerability](https://mirror.xyz/pikefinance.eth/M1ToE42vwEHuE6xlz0dVRQwPT0xpaRtpIIw2arOdBAM)
 * [Platypus Finance Incident Post-Mortem](https://medium.com/@omniscia.io/platypus-finance-incident-post-mortem-7b71a0a47a5e)
 * [PrismaRisk Post Mortem](https://hackmd.io/@PrismaRisk/PostMortem0328)
 * [Quaternion](https://twitter.com/BlockSecTeam/status/1615625897671004161)
