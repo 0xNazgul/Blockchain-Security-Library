@@ -355,6 +355,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Solidity and EVM: Bit Shifting and Masking in Assembly(YUL)](https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a)
 * [Solidity Bugs in Yul](https://github.com/Mikerah/solidity-bugs-and-vulns-in-yul)
 * [Solidity Inline Assembly & Yul](https://www.youtube.com/watch?v=K18LzGharGM)
+* [Solidity Inline Assembly Vulnerabilities](https://dacian.me/solidity-inline-assembly-vulnerabilities)
 * [Solidity Tutorial : all about Assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 * [solvm](https://github.com/brockelmore/solvm)
 * [Technical Exploration of Inline Assembly in Solidity](https://medium.com/@ac1d_eth/technical-exploration-of-inline-assembly-in-solidity-b7d2b0b2bda8)
@@ -583,6 +584,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Multichain Auditor](https://github.com/0xJuancito/multichain-auditor)
 * [rollup.codes](https://www.rollup.codes/)
 * [Secure integration with LayerZero](https://composable-security.com/blog/secure-integration-with-layer-zero/)
+* [Security disclosure from Offchain Labs to OP Labs](https://medium.com/offchainlabs/security-disclosure-289a4ad50709)
 * [The Dark Side of DeFi: Cross-Chain Bridge Hacks](https://quantstamp.com/blog/the-dark-side-of-defi-cross-chain-bridge-hacks)
 * [You Could Have Found the Nomad Hack](https://www.zellic.io/blog/audit-drift/)
 
@@ -670,6 +672,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Themis exploit](https://twitter.com/BlockSecTeam/status/1673897088617426946)
 * [TWAP Oracles For Auditors](https://33audits.hashnode.dev/twap-oracles-for-auditors)
 * [UNMS Hack](https://twitter.com/BeosinAlert/status/1641018602878042113)
+* [UwuLend hack writeup Daniel Von Fange](https://x.com/danielvf/status/1800556249924440211)
 * [WOOFi Exploit](https://www.cyfrin.io/blog/hack-analysis-into-woofi-exploit)
 
 [Back to top](#blockchain-security-library)
@@ -679,6 +682,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Learn attack vectors and explore H/M severity issues. Over/Underflow](https://medium.com/coinmonks/learn-attack-vectors-and-explore-h-m-severity-issues-over-underflow-e331aa41d97b)
 * [Poolz Finance Attacked](https://medium.com/@numencyberlabs/poolz-finance-attacked-for-665-000-56084cacae53)
 * [Solidity Integer Overflow & Underflow](https://medium.com/neptune-mutual/solidity-integer-overflow-underflow-5614650e390a)
+* [Velocore Incident Post-Mortem](https://velocorexyz.medium.com/velocore-incident-post-mortem-6197020ec3e9)
 
 [Back to top](#blockchain-security-library)
 
@@ -957,6 +961,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Foundry Gas Diff](https://github.com/Rubilmax/foundry-gas-diff)
 * [Foundry Multibuild](https://github.com/PaulRBerg/foundry-multibuild)
 * [Fuzz introspector](https://github.com/ossf/fuzz-introspector)
+* [fuzzlib](https://github.com/perimetersec/fuzzlib/tree/main)
 * [gambit](https://github.com/Certora/gambit)
 * [Generate Foundry Fork Test from Attack Transaction](https://github.com/fuzzland/girlfriend)
 * [halmos](https://github.com/a16z/halmos)
