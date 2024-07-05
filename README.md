@@ -14,7 +14,9 @@ Do you think something would better fit in another section? Create an issue abou
 - [Blockchain Security Library](#blockchain-security-library)
 - [Contributing](#contributing)
   - [Access Control](#access-control)
+  - [Blockchain Security News](#blockchain-security-news)
   - [CDP, Lending and Borrowing](#cdp-lending-and-borrowing)
+  - [Comprehensive List of Hacks and Exploits](#comprehensive-list-of-hacks-and-exploits)
   - [CTFs and Puzzles](#ctfs-and-puzzles)
   - [DeFi](#defi)
   - [DOS](#dos)
@@ -25,6 +27,7 @@ Do you think something would better fit in another section? Create an issue abou
   - [ERC-721](#erc-721)
   - [ERC-777](#erc-777)
   - [EVM Internals and Low Level](#evm-internals-and-low-level)
+  - [Findings Search Utilities and Databases](#findings-search-utilities-and-databases)
   - [Formal Verification and Symbolic Execution](#formal-verification-and-symbolic-execution)
   - [Fuzzing](#fuzzing)
   - [Gas](#gas)
@@ -69,6 +72,17 @@ Do you think something would better fit in another section? Create an issue abou
 
 [Back to top](#blockchain-security-library)
 
+## Blockchain Security News
+* [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/archive)
+* [HashingBits](https://quillaudits.substack.com/)
+* [Immunefi](https://immunefi.medium.com/)
+* [Security Pills (Mix of both web2 & web3)](https://newsletter.securitypills.news/)
+* [Web3 Security Watch](https://olympix.substack.com/)
+* [Web3Sec News](https://www.web3sec.news/)
+* [Week in Ethereum News](https://weekinethereumnews.com/)
+
+[Back to top](#blockchain-security-library)
+
 ## CDP, Lending and Borrowing
 * [Aave Fork Checklist](https://gist.github.com/aviggiano/4c21d79fff3437f3799da1e44e425e06)
 * [Borrowing on Ethereum: Comparing Architecture Evolution of MakerDAO, Yield, Aave, Compound, & Euler](https://hackernoon.com/borrowing-on-ethereum-comparing-architecture-evolution-of-makerdao-yield-aave-compound-and-euler)
@@ -87,6 +101,25 @@ Do you think something would better fit in another section? Create an issue abou
 * [Understanding Compound’s Liquidation](https://zengo.com/understanding-compounds-liquidation)
 * [Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
 * [Vulnerable Spots of Lending Protocols](https://mixbytes.io/blog/vulnerable-spots-of-lending-protocols)
+
+[Back to top](#blockchain-security-library)
+
+## Comprehensive List of Hacks and Exploits
+* [Coinspect's Learn EVM Attacks](https://github.com/coinspect/learn-evm-attacks)
+* [Cryptosec DeFi Hacks](https://cryptosec.info/defi-hacks/)
+* [DeFi Fork Bugs](https://github.com/YAcademy-Residents/defi-fork-bugs)
+* [Defi Hack Analysis](https://github.com/abdulsamijay/Defi-Hack-Analysis-POC)
+* [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [DeFi POC](https://github.com/blocksecteam/defi_poc)
+* [DefiLlama](https://defillama.com/hacks)
+* [Hack Analysis POCs](https://github.com/immunefi-team/hack-analysis-pocs)
+* [OpenZeppelin Post Mortems](https://forum.openzeppelin.com/t/list-of-ethereum-smart-contracts-post-mortems/1191)
+* [Phalcon Security Incidents](https://phalcon.blocksec.com/explorer/security-incidents)
+* [QuillAudit's Hackerboard](https://www.quillaudits.com/tools/hackerboard)
+* [Rekt Leaderboard](https://rekt.news/leaderboard/)
+* [SlowMist Hacked](https://hacked.slowmist.io/en/)
+* [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
+
 
 [Back to top](#blockchain-security-library)
 
@@ -366,6 +399,7 @@ Do you think something would better fit in another section? Create an issue abou
 * [Understand EVM bytecode](https://blog.trustlook.com/understand-evm-bytecode-part-1/)
 * [Understanding The Ethereum Yellow Paper](https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590)
 * [What Is a Precompiled Contract Vulnerability?](https://medium.com/@Beosin_com/security-audit-series-what-is-a-precompiled-contract-vulnerability-5174e20e24e9)
+* [Where can the EVM read and write data?](https://www.cyfrin.io/blog/fixing-data-location-must-be-memory-or-calldata)
 * [Yul (and Some Solidity) Optimizations and Tricks](https://hackmd.io/@gn56kcRBQc6mOi7LCgbv1g/rJez8O8st)
 * [Yul & Memory Intro | Yul Exploit!](https://www.youtube.com/watch?v=9qLUvtL5uKQ)
 * [Yul By Example](https://github.com/Perelyn-sama/yul_by_example)
@@ -373,6 +407,20 @@ Do you think something would better fit in another section? Create an issue abou
 * [Yul](https://docs.soliditylang.org/en/latest/yul.html)
 
 [Back to top](#blockchain-security-library)
+
+## Findings Search Utilities and Databases
+Great tools for looking for more specific findings
+* [Audit Hero](https://audit-hero.com/finding)
+* [ConsenSys Blockchain SecurityDB](https://consensys.github.io/blockchainSecurityDB/)
+* [Masamune](https://masamune.app/?#)
+* [Public Audit Reports Data](https://github.com/nikitastupin/public-audit-reports-data)
+* [Solodit](https://solodit.xyz)
+* [tintinweb smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb)
+* [Tomo's Findings Database](https://twitter.com/tom_eth_dev/status/1606832631282565122)
+  1. [Medium Severity](https://tom-sol.notion.site/c433c81fc5964fb8b32c59ce98fec3df?v=c5ffb5c86778424c9a1fe3dd6f7f00f3)
+  2. [High Severity](https://tom-sol.notion.site/f9d3a62122d34b479b52ea3e0583bd57?v=9c303b31cca845638e78c25da29fa5de)
+
+[Back to top](#blockchain-security-library) 
 
 ## Formal Verification and Symbolic Execution
 * [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
@@ -419,6 +467,8 @@ Do you think something would better fit in another section? Create an issue abou
 * [Echidna Streaming Workshop](https://github.com/crytic/echidna-streaming-series)
 * [Echidna: Invariant Tests for AMM Contracts](https://allthingsfuzzy.substack.com/p/echidna-invariant-tests-for-amm-contracts)
 * [Exploiting Precision Loss via Fuzz Testing](https://dacian.me/exploiting-precision-loss-via-fuzz-testing)
+* [Finding Denial of Service Bugs At Scale With Invariant Tests](https://allthingsfuzzy.substack.com/p/finding-denial-of-service-bugs-at)
+* [Finding mispriced opcodes with fuzzing](https://blog.trailofbits.com/2024/06/17/finding-mispriced-opcodes-with-fuzzing/)
 * [function-level invariant Thread](https://twitter.com/Proxy1967/status/1643619157626200065)
 * [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/abs/2309.03006)
 * [Fuzz Test Coverage Tips](https://twitter.com/DevDacian/status/1732645103867773236)
