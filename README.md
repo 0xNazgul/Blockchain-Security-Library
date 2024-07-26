@@ -53,6 +53,7 @@ Do you think something would better fit in another section? Create an issue abou
 
 ## Access Control
 * [Access Control Vulnerability in DeFi](https://quillaudits.medium.com/access-control-vulnerability-in-defi-quillaudits-909e7ed4582c)
+* [Access Control Vulnerabilities in Solidity Smart Contracts](https://www.immunebytes.com/blog/access-control-vulnerabilities-in-solidity-smart-contracts/)
 * [Admin Brick & Forced Revert](https://dacian.me/28k-bounty-admin-brick-forced-revert)
 * [Attack Vectors in Solidity #1: Inappropriate Access Control](https://medium.com/@natachigram/attack-vectors-in-solidity-1-inappropriate-access-control-55b700fcd973)
 * [CoW Swap Solver Exploit— Post mortem](https://blog.cow.fi/cow-swap-solver-exploit-post-mortem-07-02-2023-2faa9f918e29)
@@ -65,10 +66,10 @@ Do you think something would better fit in another section? Create an issue abou
 * [SAFEMOON - REKT](https://rekt.news/safemoon-rekt/)
 * [SafeMoon Exploit Explained](https://www.zellic.io/blog/safemoon-exploit-explained/)
 * [The Role of Access Control in Solidity Smart Contracts](https://composable-security.com/blog/the-role-of-access-control-in-solidity-smart-contracts/)
-* [Thunder Lands](https://twitter.com/AnciliaInc/status/1637881882737283073)
+* [Thunder Lands Hack](https://twitter.com/AnciliaInc/status/1637881882737283073)
 * [Uncovering a High Severity Access Control Vulnerability](https://medium.com/@JohnnyTime/uncovering-a-high-severity-access-control-vulnerability-lessons-from-auditing-contests-81c7a10b4ca7)
 * [Understanding Local Traders Exploit](https://medium.com/neptune-mutual/understanding-local-traders-exploit-d5e1f373b10f)
-* [Unlock Protocol](https://twitter.com/AnciliaInc/status/1649270348716867586)
+* [Unlock Protocol Hack](https://twitter.com/AnciliaInc/status/1649270348716867586)
 
 [Back to top](#blockchain-security-library)
 
@@ -119,7 +120,6 @@ Do you think something would better fit in another section? Create an issue abou
 * [Rekt Leaderboard](https://rekt.news/leaderboard/)
 * [SlowMist Hacked](https://hacked.slowmist.io/en/)
 * [Smart Contract Hack POC](https://github.com/numencyber/SmartContractHack_PoC)
-
 
 [Back to top](#blockchain-security-library)
 
@@ -178,7 +178,6 @@ Do you think something would better fit in another section? Create an issue abou
 * [All About DeFi and Future of Finance - Full Course in 4 playlists](https://twitter.com/I_S_Valkov/status/1692269130554949857?t=58avFInFzm3ouu7F3O5dxg)
 * [amm Checklist](https://github.com/Decurity/audit-checklists/blob/master/amm.md)
 * [AMM Market Manipulation](https://community.thecreed.xyz/c/warez/amm-market-manipulation)
-* [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/abs/2003.03810)
 * [Attacks on Dynamic DeFi Interest Rate Curves](https://arxiv.org/abs/2307.13139)
 * [Auditor’s Digest : Incorrect TWAP implementations](https://medium.com/@chinmayf/auditors-digest-incorrect-twap-implementations-05285636f21e)
 * [awesome-uniswap-hooks](https://github.com/fewwwww/awesome-uniswap-hooks)
@@ -387,10 +386,12 @@ Do you think something would better fit in another section? Create an issue abou
 * [Smart Contract Obfuscation Techniques](https://degatchi.com/articles/smart-contract-obfuscation)
 * [Solidity and EVM: Bit Shifting and Masking in Assembly(YUL)](https://medium.com/@mweiss.eth/solidity-and-evm-bit-shifting-and-masking-in-assembly-yul-942f4b4ebb6a)
 * [Solidity Bugs in Yul](https://github.com/Mikerah/solidity-bugs-and-vulns-in-yul)
+* [Solidity Compilers: Memory Safety](https://osec.io/blog/2023-07-28-solidity-compilers-memory-safety)
 * [Solidity Inline Assembly & Yul](https://www.youtube.com/watch?v=K18LzGharGM)
 * [Solidity Inline Assembly Vulnerabilities](https://dacian.me/solidity-inline-assembly-vulnerabilities)
 * [Solidity Tutorial : all about Assembly](https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c)
 * [solvm](https://github.com/brockelmore/solvm)
+* [Storage Slots in Solidity](https://www.rareskills.io/post/evm-solidity-storage-layout)
 * [Technical Exploration of Inline Assembly in Solidity](https://medium.com/@ac1d_eth/technical-exploration-of-inline-assembly-in-solidity-b7d2b0b2bda8)
 * [The Bytecode #35 - Hari - Solidity Compiler](https://www.youtube.com/watch?v=_ReLzN3I1uY)
 * [The Dark Arts of Yul, Explained](https://smitrajput.notion.site/smitrajput/The-Dark-Arts-of-Yul-Explained-e0b2c178bc52437da1d101f4f96abbe4)
@@ -423,6 +424,7 @@ Great tools for looking for more specific findings
 [Back to top](#blockchain-security-library) 
 
 ## Formal Verification and Symbolic Execution
+* [Awesome Halmos](https://github.com/redtrama/awesome-halmos)
 * [Awesome Symbolic Execution](https://github.com/ksluckow/awesome-symbolic-execution)
 * [Certora Documentation](https://github.com/Certora/Documentation)
 * [Certora Tutorials](https://github.com/Certora/Tutorials)
@@ -440,6 +442,7 @@ Great tools for looking for more specific findings
 * [Formally Verifying Finality in Gasper:](https://runtimeverification.com/blog/formally-verifying-finality-in-gasper-the-core-of-the-beacon-chain)
 * [Formally Verifying WETH](https://www.zellic.io/blog/formal-verification-weth/)
 * [Implementing stateful invariant testing with Halmos](https://a16zcrypto.com/posts/article/implementing-stateful-invariant-testing-with-halmos/)
+* [k-uniswap-v2](https://github.com/dapp-org/k-uniswap-v2)
 * [MIT Symbolic Execution](https://www.youtube.com/watch?v=yRVZPvHYHzw)
 * [Morpho Certora Tutorials](https://github.com/morpho-labs/morpho-certora-tutorials)
 * [Preventing reentrancy bugs — another use case for formal verification](https://medium.com/certora/preventing-reentrancy-bugs-another-use-case-for-formal-verification-34794d69b790)
@@ -649,11 +652,13 @@ Great tools for looking for more specific findings
 
 ## MEV
 * [0xBentoshi MEV resources](https://github.com/0xBentoshi/mev-resources/blob/main/main.md)
+* [Anatomy of a Baiting Attack on MEV Arbitrage Bots](https://eigenphi.substack.com/p/anatomy-of-baiting-attack-on-mev-arb-bots)
 * [AMM MEV BACKRUNNING](https://www.youtube.com/watch?v=355g8u0we5Q)
 * [Awesome MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources)
 * [awesome-mev-boost](https://github.com/thegostep/awesome-mev-boost)
 * [Awesome-MEV](https://github.com/0xemperor/Awesome-MEV)
 * [Dogetoshi MEV](https://github.com/Dogetoshi/MEV)
+* [Eigenphi](https://eigenphi.io/)
 * [Flashbots youtube](https://www.youtube.com/channel/UCclbTgsnYUy3vmrptIqCmqQ)
 * [Flashbots](https://github.com/flashbots/pm)
 * [Front-Running In Blockchain: Real-Life Examples & Prevention](https://hacken.io/discover/front-running/)
@@ -681,6 +686,7 @@ Great tools for looking for more specific findings
 * [520 Token hack](https://twitter.com/BeosinAlert/status/1614970065992179712)
 * [Allbridge Hack Analysis](https://blog.solidityscan.com/allbridge-hack-analysis-improper-business-logic-564fbadf38b2)
 * [Anji Eco Hack Analysis](https://blog.solidityscan.com/anji-eco-hack-analysis-improper-upgrades-2cf6922d47d7)
+* [Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit](https://arxiv.org/abs/2003.03810)
 * [awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation)
 * [babydoge exploit](https://twitter.com/pennysplayer/status/1662737500870414341)
 * [BentoBox v1 hack](https://twitter.com/AnciliaInc/status/1623808892731023360)
@@ -698,6 +704,7 @@ Great tools for looking for more specific findings
 * [DD Coin](https://twitter.com/PeckShieldAlert/status/1664167119091810304)
 * [Decoding Ovix Protocol’s $2 Million Exploit](https://quillaudits.medium.com/decoding-ovix-protocols-2-million-exploit-quillaudits-92befc250e7c)
 * [Decoding ROE Finance’s Flash Loan Exploit](https://quillaudits.medium.com/decoding-roe-finances-flash-loan-exploit-quillaudits-df8494e2090f)
+* [DoughFina Hack Analysis](https://blog.solidityscan.com/doughfina-hack-analysis-685ed56adb19)
 * [EDE Finance hack](https://medium.com/numen-cyber-labs/a-detailed-analysis-on-ede-finances-520k-hack-1187a5f274db)
 * [El Dorado Exchange exploit](https://lunaray.medium.com/analysis-of-the-ede-finance-attack-event-8edb5d5cfc50)
 * [Elastic BNB](https://twitter.com/BeosinAlert/status/1648970953307877377)
@@ -729,6 +736,7 @@ Great tools for looking for more specific findings
 
 ## Over/Underflow
 * [BEC Smart Contract Unlimited Token Transfer Vulnerability Analysis](https://slowmist.medium.com/slowmist-bec-smart-contract-unlimited-token-transfer-vulnerability-analysis-and-warning-114796a5c905)
+* [Hidden Overflow](https://x.com/sigp_io/status/1813773082789855554)
 * [Learn attack vectors and explore H/M severity issues. Over/Underflow](https://medium.com/coinmonks/learn-attack-vectors-and-explore-h-m-severity-issues-over-underflow-e331aa41d97b)
 * [Poolz Finance Attacked](https://medium.com/@numencyberlabs/poolz-finance-attacked-for-665-000-56084cacae53)
 * [Solidity Integer Overflow & Underflow](https://medium.com/neptune-mutual/solidity-integer-overflow-underflow-5614650e390a)
@@ -758,6 +766,7 @@ Great tools for looking for more specific findings
 * [Cross-Contract Reentrancy Attack](https://inspexco.medium.com/cross-contract-reentrancy-attack-402d27a02a15)
 * [Cross-Contract Reentrancy explained thread](https://twitter.com/0xpsuedopandit/status/1637051757573414918)
 * [Curve Finance Liquidity Pools Hack Explained](https://hacken.io/discover/curve-finance-liquidity-pools-hack-explained/)
+* [Curve Hack - Fuzzing Reproduction](https://github.com/rappie/echidna-curve-reentrancy-hack)
 * [Decoding Earning Farm’s $528k Exploit](https://blog.quillaudits.com/2023/08/10/decoding-earning-farms-528k-exploit/)
 * [Decoding Sentiment Protocol’s $1 Million Exploit](https://quillaudits.medium.com/decoding-sentiment-protocols-1-million-exploit-quillaudits-f36bee77d376)
 * [Details of Lendf.Me Reentrancy Attack](https://slowmist.medium.com/slowmist-details-of-lendf-me-reentrancy-attack-3e168ab5f2b1)
@@ -785,6 +794,7 @@ Great tools for looking for more specific findings
 * [Libertify exploit](https://twitter.com/peckshield/status/1678688731908411393)
 * [Loss Exceeds $80M Due to Reentrancy Vulnerability in Contract: Beosin’s Analysis of the FeiProtocol Exploit](https://medium.com/coinmonks/loss-exceeds-80m-due-to-reentrancy-vulnerability-in-contract-beosins-analysis-of-the-882742f5f248)
 * [Mainnet Re-Entrancy Flaw Exploited](https://typefully.com/cleanunicorn/mainnet-re-entrancy-flaw-exploited-uFOx8JV)
+* [Minterest Post-Mortem](https://minterest.com/blog/minterest-security-incident-post-mortem-report/)
 * [Multiple Projects Attacked Due to Vyper Reentrancy Vulnerability](https://medium.com/@Beosin_com/are-your-funds-safe-deb07459acba)
 * [NFT contracts also have reentrancy risks: Analysis of Revest Finance hack](https://medium.com/@sharkteam/nft-contracts-also-have-reentrancy-risks-analysis-of-revest-finance-hack-5ec2fdb8b01e)
 * [OpenZeppelin Reentrancy Bugfix Review](https://medium.com/immunefi/openzeppelin-bug-fix-postmortem-66d8c89ed166)
@@ -1098,6 +1108,7 @@ Great tools for looking for more specific findings
 * [Helping Secure BNB Chain Through Responsible Disclosure](https://jumpcrypto.com/writing/helping-secure-bnb-chain-through-responsible-disclosure/)
 * [Jump Satoshi Token Backdoor](https://medium.com/@Beosin_com/the-jump-satoshi-token-jst-has-a-backdoor-users-are-urged-to-withdraw-the-funds-asap-1364a340b2a9)
 * [LendingHub hack](https://twitter.com/SlowMist_Team/status/1613906590574198784)
+* [LI.FI arbitrary call hack](https://li.fi/knowledge-hub/incident-report-16th-july/)
 * [Logic Error Bug Fix Review](https://medium.com/balancer-protocol/logic-error-bug-fix-review-da37f0cc9a08)
 * [NFTCloud](https://twitter.com/BlockSecTeam/status/1629097425771319296)
 * [OMNI Real Estate Token Exploit](https://medium.com/neptune-mutual/omni-real-estate-token-exploit-56643524fd70)
@@ -1141,6 +1152,8 @@ Great tools for looking for more specific findings
 * [Weak Fiat-Shamir Attacks on Modern Proof Systems](https://eprint.iacr.org/2023/691)
 * [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
 * [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190)
+* [RareSkills ZKP CTF 1](https://x.com/RareSkills_io/status/1811263676747591772)
+* [RareSkills ZKP CTF 2](https://x.com/RareSkills_io/status/1813211998395552109)
 * [Security Concerns for Zero-Knowledge Proofs in Blockchain](https://medium.com/numen-cyber-labs/security-concerns-for-zero-knowledge-proofs-in-blockchain-a-comprehensive-guide-by-numen-cyber-ff7d93586c5b)
 * [SlowMist: Exploring the Frozen Heart Vulnerability in the Fiat-Shamir Scheme](https://slowmist.medium.com/slowmist-exploring-the-frozen-heart-vulnerability-in-the-fiat-shamir-scheme-3ff179450624)
 * [The zero-knowledge attack of the year might just have happened, or how Nova got broken](https://www.zksecurity.xyz/blog/posts/nova-attack/)
