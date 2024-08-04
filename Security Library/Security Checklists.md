@@ -1,0 +1,20 @@
+# Security Checklists
+
+- [Checks While Hacks](https://github.com/0xprinc/checks-while-hacks)
+- [DeFi-anti-hack-checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist)
+- [Ethereum smart contracts security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
+- [Morpho Security Checklists](https://github.com/morpho-org/morpho-security)
+- [Security Checklist](https://audit-quality.github.io/security-checklist/)
+- [Security Roadmap for Solana applications](https://github.com/Rektoff/Security-Roadmap-for-Solana-applications)
+- [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)
+- [SlowMist: Web3 Project Security Practice Requirements](https://slowmist.medium.com/slowmist-web3-project-security-practice-requirements-2f1b38f48804)
+- [Smart Contract Auditing Heuristics](https://github.com/OpenCoreCH/smart-contract-auditing-heuristics)
+- [SmartContracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+- [Solcurity](https://github.com/transmissions11/solcurity)
+- [Solidity Checklist & Reentrancy Attack](https://officercia.mirror.xyz/AoRdvL3Lp5K5JHjlgpWaOHo_CehH-amZSAm9pxuFdwQ)
+- [Solodit's Audit Checklist](https://github.com/Cyfrin/audit-checklist)
+- [The Ultimate 100+ Point Checklist Before Sending Your Smart Contract for Audit](https://betterprogramming.pub/the-ultimate-100-point-checklist-before-sending-your-smart-contract-for-audit-af9a5b5d95d0)
+- [The ultimate security checklist](https://www.beirao.xyz/blog/Security-checklist)
+- [Trail of Bits Rekt Test](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
+
+[Return](../README.md#blockchain-security-library)
