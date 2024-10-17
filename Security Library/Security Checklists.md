@@ -1,9 +1,12 @@
 # Security Checklists
 
+- [20 Common Solidity Beginner Mistakes](https://www.rareskills.io/post/solidity-beginner-mistakes)
+- [Checklist for Auditing TON Smart Contracts](https://github.com/PositiveSecurity/ton-audit-guide)
 - [Checks While Hacks](https://github.com/0xprinc/checks-while-hacks)
 - [DeFi-anti-hack-checklist](https://github.com/Quillhash/DeFi-anti-hack-checklist)
 - [Ethereum smart contracts security recommendations and best practices](https://github.com/guylando/KnowledgeLists/blob/master/EthereumSmartContracts.md)
 - [Morpho Security Checklists](https://github.com/morpho-org/morpho-security)
+- [Rust smart contract security guide in Solana](https://exvul.com/rust-smart-contract-security-guide-in-solana/)
 - [Security Checklist](https://audit-quality.github.io/security-checklist/)
 - [Security Roadmap for Solana applications](https://github.com/Rektoff/Security-Roadmap-for-Solana-applications)
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit)

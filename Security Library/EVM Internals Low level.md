@@ -33,6 +33,7 @@
 - [Learning Solidity : Tutorial 13 Instructional Assembly Video](https://www.youtube.com/watch?v=axZJ2NFMH5Q)
 - [Low Level Vulnerabilities & POCs](https://github.com/AmadiMichael/LowLevelVulnerabilities)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+- [Mastering EVM: Calldata, Assembly Returns, and More with Ret2Basic.eth](https://www.youtube.com/watch?v=PySIywgGH0Y)
 - [Memware: Generalised Frontrunners](https://degatchi.com/articles/memware)
 - [noxx EVM Deep Dives Parts 1-6](https://substack.com/home/post/p-49404796)
 - [Pointers in Solidity](https://blog.theredguild.org/memory-pointers-in-solidity/)

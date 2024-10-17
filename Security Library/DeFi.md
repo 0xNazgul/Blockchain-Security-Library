@@ -1,6 +1,5 @@
 # DeFi
 
-
 - [A Deep Dive Into The Uniswap-v2 Protocol](https://betterprogramming.pub/uniswap-v2-in-depth-98075c826254)
 - [Aave Unleashed](https://calnix.gitbook.io/aave-unleashed)
 - [Aave V3 DeFi Integration Tips](https://blog.pessimistic.io/aave-v3-defi-integration-tips-54089749cd4a)
@@ -46,6 +45,7 @@
 - [Typical Vulnerabilities in AMM Protocols](https://blog.decurity.io/typical-vulnerabilities-in-amm-protocols-9006f7986ba0)
 - [Uniswap-v3 Book](https://uniswapv3book.com/)
 - [Uniswap-v3 Ticks - Dive Into Concentrated Liquidity](https://mixbytes.io/blog/uniswap-v3-ticks-dive-into-concentrated-liquidity)
+- [Uniswap-v4 - Q64.96 Explained](https://medium.com/@bloqarl/uniswaps-q64-96-explained-essential-security-tips-for-hook-developers-4bfc4afad2f7)
 - [Uniswap-v4 - Threat Modeling For Secure Integration](https://composable-security.com/blog/uniswap-v-4-threat-modeling-for-secure-integration/)
 - [wh01s7 Uniswap-v4 Hooks Thread](https://twitter.com/wh01s7/status/1729812462571012144)
 - [When bug-fixes go wrong: RAI debt auctions bug](https://mirror.xyz/vnmrtz.eth/WXm4QJFInoB992czPniFbQyAkGUkdoaSd5zEjK5uRIo)
