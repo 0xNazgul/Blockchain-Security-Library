@@ -31,6 +31,7 @@
 - [KyberSwap Elastic bug](https://100proof.org/kyberswap-post-mortem.html)
 - [Level Finance Hack Analysis](https://blog.solidityscan.com/level-finance-hack-analysis-16fda3996ecb)
 - [Manipulating $GPT Token's Fee Mechanism Thread](https://twitter.com/Phalcon_xyz/status/1661424685320634368)
+- [Modern DEXes, how they're made: Uniswap V4](https://mixbytes.io/blog/modern-dex-es-how-they-re-made-uniswap-v4#rec815409097)
 - [Numerical Analysis](https://paragraph.xyz/@spearbit/numerical-analysis)
 - [Overview of the Inflation Attack](https://mixbytes.io/blog/overview-of-the-inflation-attack)
 - [Para.Space Hack](https://medium.com/@Ancilia/thunderstorm-come-to-para-space-68f1dd6995b9)

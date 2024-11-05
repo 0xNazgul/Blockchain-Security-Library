@@ -48,6 +48,7 @@
 - [Online ABI Encoder](https://abi.hashex.org/)
 - [Optik](https://github.com/crytic/optik)
 - [Pakala](https://github.com/palkeo/pakala)
+- [Preventing Web3 Hacks with Mutation Testing](https://www.youtube.com/watch?v=Ch1PgFw1hHI)
 - [ProMutator](https://github.com/csienslab/ProMutator)
 - [Pyrometer](https://github.com/nascentxyz/pyrometer)
 - [Rattle](https://github.com/crytic/rattle)

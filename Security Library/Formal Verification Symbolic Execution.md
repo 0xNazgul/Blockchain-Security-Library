@@ -54,6 +54,7 @@
 - [Testing and Formal Verification for Web3 Smart Contract Security](https://blog.quillaudits.com/2023/02/16/testing-and-formal-verification/)
 - [The Easy Way To Quit (Concrete) Testing](https://hackmd.io/@SaferMaker/EVM-Sym-Test)
 - [Using Formal Verification on ZK Systems](https://medium.com/veridise/using-formal-verification-on-zk-systems-our-cto-jon-stephens-in-conversation-with-anna-rose-2aa7acba66ef)
+- [Verification of Remco's full 256x256 bit multiplication](https://github.com/Philogy/remco-mul-verification)
 - [Warning: Code Can Be Explosive](https://runtimeverification.com/blog/warning-code-can-be-explosive)
 - [Z3 Docs](https://theory.stanford.edu/~nikolaj/programmingz3.html)
 - [zachobront Solady FixedPointMathLib testing Thread](https://twitter.com/zachobront/status/1633906650514898947)

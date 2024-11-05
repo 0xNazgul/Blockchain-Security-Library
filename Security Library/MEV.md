@@ -11,6 +11,7 @@
 - [Flashbots Video](https://www.youtube.com/channel/UCclbTgsnYUy3vmrptIqCmqQ)
 - [Flashbots](https://github.com/flashbots/pm)
 - [Front-Running In Blockchain: Real-Life Examples & Prevention](https://hacken.io/discover/front-running/)
+- [Front-Running Randomness: Manipulating Pyth Entropy Outcomes](https://yogev.io/posts/pyth-entropy-bug/)
 - [How To Reproduce A Simple MEV Attack](https://medium.com/immunefi/how-to-reproduce-a-simple-mev-attack-b38151616cb4)
 - [How To Reproduce A Simple MEV Attack](https://medium.com/immunefi/how-to-reproduce-a-simple-mev-attack-b38151616cb4)
 - [Intro to Smart Contract Security Audit — Front Running](https://slowmist.medium.com/introduction-to-smart-contract-security-auditing-front-running-79eb1f0f41a1)

@@ -13,6 +13,7 @@ Do you think something would better fit in another section? Create an issue abou
 <h2> Table of Contents </h2>
 
 - [Access Control](./Security%20Library/Access%20Control.md)
+- [Blockchain Node Security](./Security%20Library/Blockchain%20Node%20Security.md)
 - [Blockchain Security News](./Security%20Library/Blockchain%20Security%20News.md)
 - [CDP, Lending and Borrowing](./Security%20Library/CDP%20lending%20borrowing.md)
 - [CTFs and Puzzles](./Security%20Library/CTFs%20and%20Puzzles.md)

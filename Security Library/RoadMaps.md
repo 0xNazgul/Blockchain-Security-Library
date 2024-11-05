@@ -7,6 +7,7 @@
 - [How to become a smart contract auditor](https://cmichel.io/how-to-become-a-smart-contract-auditor/)
 - [How to become the Number 1 Auditor in Web3](https://patrickalphac.medium.com/how-to-become-the-number-1-auditor-in-web3-169fee9b1b63)
 - [Mattaereal’s Ethereum security road-map](https://mattaereal.notion.site/matta-s-Ethereum-security-road-map-cf7d7f2e48ea4aa0a8f4a2eff86342a7)
+- [Not so awesome Web3 Security Researcher roadmap](https://github.com/tpiliposian/not-awesome-web3-security-roadmap)
 - [Razzorsec AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)
 - [Secureum mind map](https://github.com/x676f64/secureum-mind_map)
 - [SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor](https://github.com/slowmist/SlowMist-Learning-Roadmap-for-Becoming-a-Smart-Contract-Auditor)

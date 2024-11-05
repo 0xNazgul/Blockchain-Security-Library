@@ -1,6 +1,7 @@
 # Governance 
 
 - [AquaDAO hack](https://twitter.com/Airdrops_one/status/1629298588390916097)
+- [Common Vulnerabilities: Protocol Governance and DAOs](https://blog.sigmaprime.io/governance-dao.html)
 - [DAO Governance DeFi Attacks](https://dacian.me/dao-governance-defi-attacks)
 - [Election Fraud? Double Voting in Celer’s State Guardian Network](https://jumpcrypto.com/writing/election-fraud-double-voting-in-celers-state-guardian-network/)
 - [Exploiting governance with metamorphic proposals](https://www.coinbase.com/blog/exploiting-governance-with-metamorphic-proposals)
