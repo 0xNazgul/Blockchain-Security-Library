@@ -80,5 +80,6 @@
 - [WhatsABI](https://github.com/shazow/whatsabi)
 - [Whitehacks Kit](https://github.com/emilianobonassi/whitehacks-kit)
 - [Yools](https://github.com/leonardoalt/yools)
+- [Circomspect](https://github.com/trailofbits/circomspect)
 
 [Return](../README.md#blockchain-security-library)

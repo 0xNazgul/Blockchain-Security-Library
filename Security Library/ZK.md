@@ -43,5 +43,8 @@
 - [ZKP Series: Pseudonym Input Vulnerability in Circom’s Verification Contract has Been Replicated](https://slowmist.medium.com/zkp-series-pseudonym-input-vulnerability-in-circoms-verification-contract-has-been-replicated-28fe3fb75ba8)
 - [ZKP-Resources: zkp-security](https://github.com/D-Squared70/Reading-Room/blob/main/Zero-Knowledge/ZKP-Resources.md#zkp-security)
 - [zkSync Era transfer Bug Thread](https://twitter.com/zksync/status/1644139364270878720)
+- [zkVM Security: What Could Go Wrong?](https://www.zksecurity.xyz/blog/posts/zkvm-security/)
+- [Awesome zkVM](https://github.com/rkdud007/awesome-zkvm)
+- [ZKP Academy](https://github.com/Antalpha-Labs/zkp-academy)
 
 [Return](../README.md#blockchain-security-library)
