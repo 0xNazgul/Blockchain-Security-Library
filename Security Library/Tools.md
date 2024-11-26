@@ -9,6 +9,7 @@
 - [Certora prover](https://www.certora.com/prover)
 - [Chain Walker](https://github.com/0xsha/ChainWalker)
 - [Circomscribe](https://www.zksecurity.xyz/blog/posts/circomscribe/)
+- [Circomspect](https://github.com/trailofbits/circomspect)
 - [Contract Diff Tool](https://github.com/x48115/contract-diff-tool)
 - [Contract_grabber](https://github.com/brockelmore/contract_grabber)
 - [Decompile Bytecode](https://library.dedaub.com/decompile)
@@ -80,6 +81,5 @@
 - [WhatsABI](https://github.com/shazow/whatsabi)
 - [Whitehacks Kit](https://github.com/emilianobonassi/whitehacks-kit)
 - [Yools](https://github.com/leonardoalt/yools)
-- [Circomspect](https://github.com/trailofbits/circomspect)
 
 [Return](../README.md#blockchain-security-library)
