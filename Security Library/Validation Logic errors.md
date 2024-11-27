@@ -17,7 +17,6 @@
 - [Feed Every Gorilla hack Thread](https://twitter.com/AnciliaInc/status/1628840426890473472)
 - [Flash Loan Attack on TINU Token](https://www.numencyber.com/flashloan-attack-on-tinu-token/)
 - [From the vulnerability incident of APE airdrop, what is the security situation of NFT?](https://medium.com/@sharkteam/from-the-vulnerability-incident-of-ape-airdrop-what-is-the-security-situation-of-nft-e2346c6e8fac)
-- [Helping Secure BNB Chain Through Responsible Disclosure](https://jumpcrypto.com/writing/helping-secure-bnb-chain-through-responsible-disclosure/)
 - [Jump Satoshi Token Backdoor](https://medium.com/@Beosin_com/the-jump-satoshi-token-jst-has-a-backdoor-users-are-urged-to-withdraw-the-funds-asap-1364a340b2a9)
 - [LendingHub hack Thread](https://twitter.com/SlowMist_Team/status/1613906590574198784)
 - [LI.FI arbitrary call hack](https://li.fi/knowledge-hub/incident-report-16th-july/)
