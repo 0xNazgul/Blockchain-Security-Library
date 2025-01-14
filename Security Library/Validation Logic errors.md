@@ -41,6 +41,7 @@
 - [Uniswap's SwapRouter doesn't refund unspent ETH in partial swaps](https://jeiwan.net/posts/public-bug-report-uniswap-swaprouter/)
 - [Upswing hack Thread](https://twitter.com/BlockSecTeam/status/1615521051487932418)
 - [USDs Feb 3 Exploit Report](https://medium.com/sperax/usds-feb-3-exploit-report-from-engineering-team-9f0fd3cef00c)
+- [Vulnerability in Virtuals](https://x.com/lj1nu/status/1875021257210736870)
 - [XCarnival NFT lending protocol vulnerability analysis](https://slowmist.medium.com/xcarnival-nft-lending-protocol-vulnerability-analysis-583474cede61)
 
 [Return](../README.md#blockchain-security-library)

@@ -26,6 +26,7 @@
 - [DeFi Slippage Attacks](https://dacian.me/defi-slippage-attacks)
 - [Euler Finance Incident Post-Mortem](https://medium.com/@omniscia.io/euler-finance-incident-post-mortem-1ce077c28454)
 - [Floki Inu hack Thread](https://twitter.com/AnciliaInc/status/1655971355790286849)
+- [How Concentrated Liquidity in Uniswap V3 Works](https://www.rareskills.io/post/uniswap-v3-concentrated-liquidity)
 - [How Was ASKACR Token Exploited?](https://medium.com/neptune-mutual/how-was-askacr-token-exploited-60afcdbfe77d)
 - [How Was LunaFi Exploited?](https://medium.com/neptune-mutual/how-was-lunafi-exploited-80d661e3a08a)
 - [KyberSwap Elastic bug](https://100proof.org/kyberswap-post-mortem.html)

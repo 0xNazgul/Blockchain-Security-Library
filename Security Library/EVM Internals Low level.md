@@ -58,6 +58,7 @@
 - [Where can the EVM read and write data?](https://www.cyfrin.io/blog/fixing-data-location-must-be-memory-or-calldata)
 - [YUL & Memory Intro | YUL Exploit! Video](https://www.youtube.com/watch?v=9qLUvtL5uKQ)
 - [YUL By Example](https://github.com/Perelyn-sama/yul_by_example)
+- [Yul Puzzles by RareSkills](https://github.com/RareSkills/yul-puzzles)
 - [YUL Solidity Fridays Video](https://www.youtube.com/watch?v=UrtuosfzmGU)
 - [YUL(and Some Solidity) Optimizations and Tricks](https://hackmd.io/@gn56kcRBQc6mOi7LCgbv1g/rJez8O8st)
 - [YUL](https://docs.soliditylang.org/en/latest/yul.html)

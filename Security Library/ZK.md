@@ -1,6 +1,8 @@
 # ZK
 
 - [0xiczc Vulnerability in the 0xPolygon zkEVM Thread](https://twitter.com/0xiczc/status/1662090451493740545)
+- [10 Must-Read Papers That Shaped Modern Zero-Knowledge Proofs](https://www.zksecurity.xyz/blog/posts/ten-zk-papers/)
+- [A Technical Dive into Jolt: The RISC-V zkVM](https://www.zksecurity.xyz/blog/posts/how-jolt-works/)
 - [a16z zkDocs](https://github.com/a16z/zkdocs)
 - [Algebraic Attacks on ZK-Friendly Hash Functions](https://www.zellic.io/blog/algebraic-attacks-on-zk-hash-functions/)
 - [Awesome zero knowledge proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
@@ -18,6 +20,7 @@
 - [Exploring Leo: A Primer on Aleo Program Security](https://www.zksecurity.xyz/blog/posts/aleo-program-security/)
 - [Exploring Tornado Cash In-Depth to Reveal Malleability Attacks in ZKP Projects](https://medium.com/@Beosin_com/exploring-tornado-cash-in-depth-to-reveal-malleability-attacks-in-zkp-projects-f7321922f82d)
 - [Ingopedia](https://github.com/ingonyama-zk/ingopedia)
+- [Noir's Circuit Backend](https://x.com/jtriley_eth/status/1871210040989720936)
 - [Nova Attack](https://www.zksecurity.xyz/blog/posts/nova-attack/)
 - [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190)
 - [RareSkills ZKP CTF 1](https://x.com/RareSkills_io/status/1811263676747591772)

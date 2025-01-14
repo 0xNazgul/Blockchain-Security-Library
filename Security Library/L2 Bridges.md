@@ -10,6 +10,7 @@
 - [Bridge Bugs Overview](https://mixbytes.io/blog/bridge-bugs-overview)
 - [bridge hacks](https://gist.github.com/cwhinfrey/9fd1bbc31bbcff08fca242b90c7f875d)
 - [Common Cross-Chain Bridge Vulnerabilities](https://medium.com/immunefi/common-cross-chain-bridge-vulnerabilities-d8c161ffaf8f)
+- [Critical vulnerability in the Optimism](https://x.com/arsen_bt/status/1873651532069224676)
 - [Cross-Chain Security with LayerZero Labs](https://spearbit.mirror.xyz/MjMLQf5cTfKtxHj8GWG7DZjaUrswrcKpU4vJ45fgQW0)
 - [ERC 20 Bridge Security Video](https://www.youtube.com/watch?v=hGDH6CNuMM0)
 - [Ethereum Log Confusion in Polygon's Heimdall](https://www.asymmetric.re/blog/polygon-log-confusion)

@@ -10,6 +10,7 @@
 - [Chain Walker](https://github.com/0xsha/ChainWalker)
 - [Circomscribe](https://www.zksecurity.xyz/blog/posts/circomscribe/)
 - [Circomspect](https://github.com/trailofbits/circomspect)
+- [Contender](https://github.com/flashbots/contender)
 - [Contract Diff Tool](https://github.com/x48115/contract-diff-tool)
 - [Contract_grabber](https://github.com/brockelmore/contract_grabber)
 - [Decompile Bytecode](https://library.dedaub.com/decompile)
