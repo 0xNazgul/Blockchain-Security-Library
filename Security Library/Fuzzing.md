@@ -17,6 +17,7 @@
 - [echidna spearbit demo](https://github.com/spearbit/echidna-spearbit-demo)
 - [Echidna Streaming Workshop](https://github.com/crytic/echidna-streaming-series)
 - [Echidna: Invariant Tests for AMM Contracts](https://allthingsfuzzy.substack.com/p/echidna-invariant-tests-for-amm-contracts)
+- [EVM Fuzzing Resources](https://github.com/perimetersec/evm-fuzzing-resources)
 - [Exploiting Precision Loss via Fuzz Testing](https://dacian.me/exploiting-precision-loss-via-fuzz-testing)
 - [Finding Denial of Service Bugs At Scale With Invariant Tests](https://allthingsfuzzy.substack.com/p/finding-denial-of-service-bugs-at)
 - [Finding mispriced opcodes with fuzzing](https://blog.trailofbits.com/2024/06/17/finding-mispriced-opcodes-with-fuzzing/)

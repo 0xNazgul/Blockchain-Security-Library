@@ -6,6 +6,7 @@
 - [Awesome Advanced Smart Contracts Testing and Verification](https://github.com/GianfrancoBazzani/awesome-advanced-smart-contracts-testing-and-verification)
 - [Awesome smart contract analysis tools](https://github.com/LouisTsai-Csie/awesome-smart-contract-analysis-tools)
 - [Caracal](https://github.com/crytic/caracal)
+- [Certora Prover](https://github.com/Certora/CertoraProver)
 - [Certora prover](https://www.certora.com/prover)
 - [Chain Walker](https://github.com/0xsha/ChainWalker)
 - [Circomscribe](https://www.zksecurity.xyz/blog/posts/circomscribe/)

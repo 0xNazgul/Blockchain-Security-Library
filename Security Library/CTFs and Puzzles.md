@@ -2,6 +2,7 @@
 
 - [A-MAZE-X: A Smart Contract Security Capture the Flag Workshop](https://github.com/secureum/secureum-a-maze-x-challenges)
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
+- [Breaking Down the Puzzles in ZK Hack V](https://www.zellic.io/blog/zellic-wins-two-puzzles-in-zkhack-v/)
 - [Code is Law 2](https://github.com/orenyomtov/code-is-law-2)
 - [CTF Blockchain](https://github.com/minaminao/ctf-blockchain)
 - [CTF Challenge by Egis Security](https://github.com/Egis-Security/CTF_Challenge)

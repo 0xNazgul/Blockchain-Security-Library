@@ -13,6 +13,7 @@
 - [SlowMist: Web3 Project Security Practice Requirements](https://slowmist.medium.com/slowmist-web3-project-security-practice-requirements-2f1b38f48804)
 - [Smart Contract Auditing Heuristics](https://github.com/OpenCoreCH/smart-contract-auditing-heuristics)
 - [SmartContracts Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+- [Solana smart contract security best practices](https://github.com/slowmist/solana-smart-contract-security-best-practices)
 - [Solcurity](https://github.com/transmissions11/solcurity)
 - [Solidity Checklist & Reentrancy Attack](https://officercia.mirror.xyz/AoRdvL3Lp5K5JHjlgpWaOHo_CehH-amZSAm9pxuFdwQ)
 - [Solodit's Audit Checklist](https://github.com/Cyfrin/audit-checklist)

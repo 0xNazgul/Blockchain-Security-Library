@@ -3,6 +3,7 @@
 - [Blockchain Security Course Video](https://www.youtube.com/playlist?list=PLgAorDu9_-dPGPkVWFceDNjlHyvvrx8Y0)
 - [Cyfrin Updraft](https://updraft.cyfrin.io/courses/security)
 - [DeFi Hacks Reproduce & Academy](https://github.com/SunWeb3Sec/DeFiHackLabs)
+- [DeFiHackLabs Ethereum and Web3 Security Bootcamp](https://github.com/DeFiHackLabs/DeFiHackLabs-Ethereum-Web3-Security-BootCamp)
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 - [Gateway Free Web3 Security Course](https://guardianaudits.notion.site/guardianaudits/Gateway-Free-Web3-Security-Course-574f4d819c144d7895cda6d61ba26503)
 - [LearnEVM](https://learnevm.com/)
